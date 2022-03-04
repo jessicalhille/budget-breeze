@@ -11,7 +11,7 @@
 
   ## Description
   A budget tracker application that allows for offline access and functionality. This progressive web application (PWA) allows users to add expenses and deposits to their budget with or without connection. If the user inputs transactions while offline, the application will save them and update when the application is brought back online.
-  ### Link to Deployed Application: https://shrouded-ocean-30327.herokuapp.com/
+  #### Link to Deployed Application: https://shrouded-ocean-30327.herokuapp.com/
 
   ## Table of Contents
   * [Installation](#installation)
@@ -35,7 +35,8 @@
   ```
 
   ### Screenshot of Deployed Application
-  ![Screenshot](undefined)
+  <img width="1381" alt="Screen Shot 2022-03-03 at 8 21 43 PM" src="https://user-images.githubusercontent.com/91511805/156688215-062cf8cb-97e4-44fb-aa32-13edaa6f5f5b.png">
+
 
   ## Contributing
   There are no guidelines for contribution at this time.
